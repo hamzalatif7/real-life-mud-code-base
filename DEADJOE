@@ -1,0 +1,102 @@
+
+*** These modified files were found in JOE when it aborted on Thu Jan  3 16:25:33 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/jack/mudev/realifemud/.git/COMMIT_EDITMSG
+
+*** File '/home/jack/mudev/realifemud/.git/COMMIT_EDITMSG'
+First release.# Please enter the commit message for your changes. Lines starting
+# with '
+
+
+
+
+
+
+
+
+
+
+
+c#' will be ignored, and an empty message aborts the commit.
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   __init__.py
+#	new file:   commands/README.md
+#	new file:   commands/__init__.py
+#	new file:   commands/command.py
+#	new file:   commands/default_cmdsets.py
+#	new file:   server/README.md
+#	new file:   server/__init__.py
+#	new file:   server/conf/__init__.py
+#	new file:   server/conf/at_initial_setup.py
+#	new file:   server/conf/at_search.py
+#	new file:   server/conf/at_server_startstop.py
+#	new file:   server/conf/cmdparser.py
+#	new file:   server/conf/connection_screens.py
+#	new file:   server/conf/inlinefuncs.py
+#	new file:   server/conf/inputfuncs.py
+#	new file:   server/conf/lockfuncs.py
+#	new file:   server/conf/mssp.py
+#	new file:   server/conf/portal_services_plugins.py
+#	new file:   server/conf/server_services_plugins.py
+#	new file:   server/conf/serversession.py
+#	new file:   server/conf/settings.py
+#	new file:   server/conf/web_plugins.py
+#	new file:   server/logs/README.md
+#	new file:   typeclasses/README.md
+#	new file:   typeclasses/__init__.py
+#	new file:   typeclasses/accounts.py
+#	new file:   typeclasses/channels.py
+#	new file:   typeclasses/characters.py
+#	new file:   typeclasses/exits.py
+#	new file:   typeclasses/objects.py
+#	new file:   typeclasses/rooms.py
+#	new file:   typeclasses/scripts.py
+#	new file:   web/__init__.py
+#	new file:   web/static_overrides/README.md
+#	new file:   web/static_overrides/webclient/css/README.md
+#	new file:   web/static_overrides/webclient/js/README.md
+#	new file:   web/static_overrides/website/css/README.md
+#	new file:   web/static_overrides/website/images/README.md
+#	new file:   web/template_overrides/README.md
+#	new file:   web/template_overrides/webclient/README.md
+#	new file:   web/template_overrides/website/README.md
+#	new file:   web/template_overrides/website/flatpages/README.md
+#	new file:   web/template_overrides/website/registration/README.md
+#	new file:   web/urls.py
+#	new file:   world/README.md
+#	new file:   world/__init__.py
+#	new file:   world/batch_cmds.ev
+#	new file:   world/prototypes.py
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
